@@ -1,0 +1,29 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# F# specific
+*.fsproj.user
+
+# NuGet packages
+packages/
+
+# macOS specific
+.DS_Store
+
+# Avalonia specific
+*.xaml.cs
+
